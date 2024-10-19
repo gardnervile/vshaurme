@@ -1,7 +1,4 @@
-echo '.idea' >> .gitignore
+.idea/
 
-git rm -r --cached .idea
-
-git add .gitignore
 
 
